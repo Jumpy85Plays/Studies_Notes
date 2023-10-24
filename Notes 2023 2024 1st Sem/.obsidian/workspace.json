@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CC 104/Chapter-1.md",
+                "file": "CC 104/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c00c9c993ce79374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reminders.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 212.5
   },
   "right": {
     "id": "b57984a9fb128ecf",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CC 104/Chapter-1.md",
+                "file": "Reminders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CC 104/Chapter-1.md",
+                "file": "Reminders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CC 104/Chapter-1.md"
+                "file": "Reminders.md"
               }
             }
           },
@@ -156,10 +169,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58c7cb3da0beae5b",
+  "active": "c00c9c993ce79374",
   "lastOpenFiles": [
     "CC 104/Chapter 1.md",
+    "Reminders.md",
+    "DND/Passwords wifi.md",
+    "DND/Wynncraft To DO List.md",
+    "Wynncraft To DO List.md",
+    "Experiments/Default Epublifier.md",
+    "Experiments/Custom Epublifier.md",
+    "DND/Actual Quest Jericho 10 20 2023.md",
+    "Experiments",
+    "DND/Elarion-Moonshadow.pdf",
+    "DND/Practice Quest.md",
+    "DND/Bartholomew Kuma.pdf",
     "CC 104/Chapter 5.md",
+    "CC 104/~$apter-5-Algorithm.docx",
+    "CC 104/~$ACK-SAMPLE-CODE.docx",
+    "CC 104/STACK-SAMPLE-CODE.docx",
+    "CC 104/Chapter-4-Stack-and-Queue.docx",
+    "CC 104/Chapter-5-Algorithm.docx",
     "CC 104/Chapter-1.md",
     "PF101 (Object Oriented Programming)/Java/Chapter 4.md",
     "CC 104/Chapter-2.md",
@@ -168,10 +197,6 @@
     "PF101 (Object Oriented Programming)/Designing Classes.md",
     "DND",
     "RE 3",
-    "PE 3",
-    "GEC 5",
-    "GEC 4",
-    "ELEC 1",
     "PF101 (Object Oriented Programming)/Algorithm.md"
   ]
 }
